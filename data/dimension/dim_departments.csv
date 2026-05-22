@@ -1,0 +1,6 @@
+DepartmentID,DepartmentName,TotalBeds,ICU_Flag
+1,Emergency Room,45,N
+2,Intensive Care Unit,20,Y
+3,General Medicine,120,N
+4,Cardiology,35,N
+5,Pediatrics,25,N

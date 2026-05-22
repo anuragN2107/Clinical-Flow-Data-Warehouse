@@ -1,0 +1,51 @@
+ProviderID,NPI,FirstName,LastName,Specialty,StaffStatus
+1,1686579303,Mary,Smith,Internal Medicine,Active
+2,1262950628,Patricia,Williams,Emergency Medicine,Active
+3,1726600539,William,Johnson,Pediatrics,Active
+4,1453035110,James,Smith,Emergency Medicine,Active
+5,1234760738,Patricia,Rodriguez,Pediatrics,Active
+6,1028492780,William,Brown,Pediatrics,Active
+7,1450455977,Patricia,Davis,Pediatrics,Active
+8,1298704996,James,Williams,Cardiology,Active
+9,1365341213,Robert,Williams,Critical Care,Active
+10,1819795579,Jennifer,Johnson,Emergency Medicine,Active
+11,1407943839,Mary,Garcia,Internal Medicine,Active
+12,1648245888,Robert,Smith,Cardiology,Active
+13,1575770529,Mary,Miller,Emergency Medicine,Active
+14,1592749116,Robert,Martinez,Internal Medicine,Active
+15,1619927151,Patricia,Johnson,Emergency Medicine,Active
+16,1710026086,Patricia,Jones,Emergency Medicine,Active
+17,1918390409,Patricia,Johnson,Cardiology,Active
+18,1298471886,Linda,Garcia,Critical Care,Active
+19,1397478786,Jennifer,Brown,Internal Medicine,Active
+20,1753573823,Mary,Martinez,Critical Care,Active
+21,1573528321,Patricia,Williams,Cardiology,Active
+22,1407437181,Robert,Rodriguez,Critical Care,Active
+23,1735098955,Jennifer,Smith,Critical Care,Active
+24,1882403818,James,Garcia,Cardiology,Active
+25,1287484583,Mary,Brown,Pediatrics,Active
+26,1940992571,Jennifer,Brown,Cardiology,Active
+27,1424806516,Linda,Williams,Internal Medicine,Active
+28,1149926919,Patricia,Rodriguez,Pediatrics,Active
+29,1282116655,Elizabeth,Miller,Pediatrics,Active
+30,1428853029,Jennifer,Brown,Critical Care,Active
+31,1547099690,Linda,Johnson,Emergency Medicine,Active
+32,1924602213,Mary,Williams,Critical Care,Active
+33,1850488739,Michael,Martinez,Emergency Medicine,Active
+34,1413140753,Michael,Martinez,Cardiology,Active
+35,1568132202,Robert,Rodriguez,Emergency Medicine,Active
+36,1730448745,Mary,Rodriguez,Internal Medicine,Active
+37,1825276600,Jennifer,Johnson,Internal Medicine,Active
+38,1466825638,John,Davis,Emergency Medicine,Active
+39,1775340444,Robert,Rodriguez,Critical Care,Active
+40,1545119047,Mary,Jones,Pediatrics,Active
+41,1653876785,Patricia,Williams,Internal Medicine,Active
+42,1818739736,John,Rodriguez,Pediatrics,Active
+43,1986224887,James,Martinez,Internal Medicine,Active
+44,1524636385,James,Johnson,Internal Medicine,Active
+45,1943520428,Robert,Brown,Emergency Medicine,Active
+46,1258633898,Elizabeth,Johnson,Emergency Medicine,Active
+47,1785879795,Linda,Johnson,Pediatrics,Active
+48,1822308461,John,Williams,Cardiology,Active
+49,1590347116,John,Jones,Pediatrics,Active
+50,1936767846,Elizabeth,Miller,Critical Care,Active
