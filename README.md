@@ -33,3 +33,19 @@ The complete lifecycle of this project was engineered using industry-standard en
   Modeling     ➔   📐 Star / Snowflake Hybrid Schema    ➔   Unidirectional Fact-Dimension Mapping
   Tuning       ➔   ⚡ Non-Clustered Covering Indexes    ➔   Query Acceleration & Scan Elimination
   Analytics    ➔   📊 Power BI Desktop Enterprise      ➔   Advanced DAX Engine & UI Report Layer
+
+
+Clinical-Flow-Data-Warehouse/
+├── README.md                    <-- Project Executive Summary, Tools Stack & Architecture Maps
+├── DATA_ENGINEERING.md          <-- Pipeline Specifications & Database Optimization Manual
+├── BUSINESS_INTELLIGENCE.md    <-- Power BI Canvas Layouts, DAX Engine & Modeling Documentation
+├── pipelines/
+│   └── raw_data_generator.py    <-- Programmatic Python Data Generator Script
+├── sql/
+│   ├── database_setup.sql       <-- Table Schemas & Functional Key Assignments
+│   ├── data_cleansing.sql       <-- CTE-Driven Partition Deduplication Scripts
+│   └── query_optimization.sql   <-- Non-Clustered Covering Indexes & Views
+└── dashboards/
+    ├── Clinical_Flow_Operational_Insights.pbix <-- Production Power BI Application File
+    ├── dashboard_page1.png      <-- Clinical Operations Summary View Snapshot
+    └── dashboard_page2.png      <-- Revenue Assurance Ledger View Snapshot
