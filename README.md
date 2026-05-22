@@ -1,7 +1,7 @@
 # 🏥 Clinical-Flow-Data-Warehouse & Enterprise Datamart
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Database-MS%20SQL%20Server%202022-red?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Database-MS%20SQL%20Server%20-red?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Language-T--SQL%20%2F%20Advanced-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/Pipeline-Python%203.11-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Data%20Modeling-Hybrid%20Star%20%2F%20Snowflake-success?style=for-the-badge" alt="Architecture" />
