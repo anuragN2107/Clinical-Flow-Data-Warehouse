@@ -47,8 +47,7 @@ WHERE PatientID IN (SELECT DuplicateID FROM #DuplicateIDMap);
 
 DROP TABLE #DuplicateIDMap;
 
-
-## 2.High-Performance Query Engineering & Optimization
+**2.High-Performance Query Engineering & Optimization**
 To protect database resource limits from heavy reporting scans, analytical time-series patterns were optimized using Non-Clustered Covering Indexes.
 
 --SQL
@@ -57,5 +56,6 @@ ON Fact_Encounters (PatientID, AdmitDateTime)
 INCLUDE (EncounterID, DischargeDateTime, PrimaryDiagnosisCode);
 
 
-📈 Performance Impact
+**📈 Performance Impact**
+
 By housing secondary tracking metrics (DischargeDateTime, PrimaryDiagnosisCode) within the index page itself via the INCLUDE clause, SQL Server completely bypasses the cluster/data storage layer. The engine handles the analytical request entirely inside memory pages, resulting in a 35% reduction in query latency.
