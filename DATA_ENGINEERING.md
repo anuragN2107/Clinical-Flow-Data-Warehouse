@@ -48,8 +48,9 @@ WHERE PatientID IN (SELECT DuplicateID FROM #DuplicateIDMap);
 DROP TABLE #DuplicateIDMap;
 
 
-2.High-Performance Query Engineering & Optimization
+## 2.High-Performance Query Engineering & Optimization
 To protect database resource limits from heavy reporting scans, analytical time-series patterns were optimized using Non-Clustered Covering Indexes.
+
 --SQL
 CREATE NONCLUSTERED INDEX IX_FactEncounters_Patient_Dates
 ON Fact_Encounters (PatientID, AdmitDateTime)
