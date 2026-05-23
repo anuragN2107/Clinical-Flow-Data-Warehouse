@@ -31,7 +31,7 @@ Hospital leadership and clinical directors constantly face data fragmentation ac
 The data warehouse implements a high-performance, relational **Hybrid Star/Snowflake Schema** engineered in **Microsoft SQL Server 2022**:
 
 ### Logical Entity-Relationship Mapping (ASCII ERD)
-```text
+``text
            [Dim_Providers]             [Dim_Departments]
                  |                             |
                  | (1:N)                       | (1:N)
